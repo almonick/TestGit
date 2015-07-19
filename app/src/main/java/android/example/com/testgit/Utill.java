@@ -5,6 +5,7 @@ package android.example.com.testgit;
  */
 public class Utill {
     private boolean kuku = true;
+    private int num = 7;
 
     public boolean getKuku(){
         return kuku;
